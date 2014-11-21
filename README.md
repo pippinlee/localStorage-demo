@@ -2,13 +2,15 @@
 
 A quick demo to show how localStorage can be added to included to save location with a weather API.
 
+![localStorage demo](https://cldup.com/R0stVQJrHJ.png)
+
 Things you'll need:
 
 * The wonderful [forecast.io](http://forecast.io/) weather API to get local weather data
 * [Chart.js](http://www.chartjs.org/) for a dynamically graphing hourly weather data
 * jQuery
 * Run `bower install` after downloading this repo in your shell to install jQuery and chart.js as dependencies
-* If you don't already have bower you can find it [here](http://www.chartjs.org/)
+* If you don't already have bower you can find it [here](http://bower.io/)
 
 ### Forecast.io
 
