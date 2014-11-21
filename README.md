@@ -2,7 +2,7 @@
 
 A quick demo to show how localStorage can be added to included to save location with a weather API.
 
-![localStorage demo](https://cldup.com/R0stVQJrHJ.png)
+![localStorage demo](https://cldup.com/RvHCffzOij.png)
 
 Things you'll need:
 
