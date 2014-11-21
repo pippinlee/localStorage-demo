@@ -1,0 +1,27 @@
+{
+  "name": "localStorage-demo",
+  "authors": [
+    "Pippin Lee <pippinblee@gmail.com>"
+  ],
+  "description": "demo of using browser's localStorage API with forecast.io's weather API",
+  "keywords": [
+    "forecast.io",
+    "chart.js",
+    "localStorage"
+  ],
+  "license": "MIT",
+  "homepage": "pippinlee.github.io/localStorage-demo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "chartjs": "~0.2.0"
+  }
+}

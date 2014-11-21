@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    City weather
+  </title>
+  <link rel="stylesheet" type="text/css" href="local.css">
+  <link href='http://fonts.googleapis.com/css?family=Merriweather:400' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,800' rel='stylesheet' type='text/css'>
+  <script src="../app/bower_components/chartjs/chart.js"></script>
+</head>
+<body>
+  <div id="big">
+  <div id="clear">Change location</div>
+    <section>
+      <header>Weather: </header>
+      <h2 id="temp">Current temperature: </h2>
+      <h3>Next 12 hours: </h3>
+
+      <div id="weatherChart">
+        <div>
+          <canvas id="canvas"></canvas>
+        </div>
+      </div>
+
+      <h4 id="hours"></h4>
+
+  </div>
+  <script type="text/javascript" src="../app/bower_components/jquery/dist/jquery.js"></script>
+  <script type="text/javascript" src="local.js"></script>
+</body>
+</html>
